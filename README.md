@@ -10,7 +10,7 @@
 </div></h1>
 <b>
   <div>
-  👀 I’m interested in A.I., Machine Learning, Working with Data, and Coding.
+  👀 I’m interested in Working with Data, and Coding.
   </div>
   <div>
   🌱 I'm currently looking for a permanent role and to grow my knowledge.
