@@ -10,7 +10,7 @@
 </div></h1>
 <b>
   <div>
-  👀 I’m interested in DBT, python, data, etc.
+  👀 I’m interested in data engineering, dev ops, data security
   </div>
   <div>
   🌱 I enjoy growing my knowledge and learning new tools.
